@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="One Dark Pro" GUID="{aa6ca9dd-8187-4544-90eb-f4043c3064c8}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="One Dark Pro" GUID="{5de833d4-ddd5-4733-9380-1b3c772ebb52}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF282C34" />
@@ -135,7 +135,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
-    <Category Name="Cpp Text Editor MEF Items" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
+    <Category Name="Text Editor MEF Items" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
       <Color Name="MarkerFormatDefinition/HighlightParameterFormatDefinition">
         <Background Type="CT_RAW" Source="FF0E4583" />
         <Foreground Type="CT_RAW" Source="FFADC0D3" />
@@ -4745,10 +4745,10 @@
         <Background Type="CT_RAW" Source="FFBDBDBD" />
       </Color>
       <Color Name="FileTabProvisionalSelectedActive">
-        <Background Type="CT_RAW" Source="FF000C3C" />
+        <Background Type="CT_RAW" Source="FF3E4249" />
       </Color>
       <Color Name="FileTabProvisionalSelectedActiveBorder">
-        <Background Type="CT_RAW" Source="FF000C3C" />
+        <Background Type="CT_RAW" Source="FF3E4249" />
       </Color>
       <Color Name="FileTabProvisionalSelectedActiveForeground">
         <Background Type="CT_RAW" Source="FFEFEFEF" />
@@ -4766,43 +4766,43 @@
         <Background Type="CT_RAW" Source="FF353941" />
       </Color>
       <Color Name="FileTabButtonProvisionalSelectedActiveGlyph">
-        <Background Type="CT_RAW" Source="FFE1D3E4" />
+        <Background Type="CT_RAW" Source="FFCECECE" />
       </Color>
       <Color Name="FileTabButtonProvisionalSelectedInactiveGlyph">
         <Background Type="CT_RAW" Source="FF6D6D70" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverInactive">
-        <Background Type="CT_RAW" Source="FFB064AB" />
+        <Background Type="CT_RAW" Source="FF3E4249" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverInactiveBorder">
-        <Background Type="CT_RAW" Source="FFB064AB" />
+        <Background Type="CT_RAW" Source="FF3E4249" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverInactiveGlyph">
         <Background Type="CT_RAW" Source="FFEFEFEF" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownInactive">
-        <Background Type="CT_RAW" Source="FF442359" />
+        <Background Type="CT_RAW" Source="FF484C52" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownInactiveBorder">
-        <Background Type="CT_RAW" Source="FF442359" />
+        <Background Type="CT_RAW" Source="FF484C52" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownInactiveGlyph">
         <Background Type="CT_RAW" Source="FFEFEFEF" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverSelectedActive">
-        <Background Type="CT_RAW" Source="FF9B4F96" />
+        <Background Type="CT_RAW" Source="FF353941" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverSelectedActiveBorder">
-        <Background Type="CT_RAW" Source="FF9B4F96" />
+        <Background Type="CT_RAW" Source="FF353941" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverSelectedActiveGlyph">
         <Background Type="CT_RAW" Source="FFEFEFEF" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownSelectedActive">
-        <Background Type="CT_RAW" Source="FF442359" />
+        <Background Type="CT_RAW" Source="FF484C52" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownSelectedActiveBorder">
-        <Background Type="CT_RAW" Source="FF442359" />
+        <Background Type="CT_RAW" Source="FF484C52" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownSelectedActiveGlyph">
         <Background Type="CT_RAW" Source="FFEFEFEF" />
@@ -5113,15 +5113,15 @@
         <Background Type="CT_RAW" Source="FF000C3C" />
       </Color>
       <Color Name="StatusBarBuilding">
-        <Background Type="CT_RAW" Source="FF001D4C" />
+        <Background Type="CT_RAW" Source="FF252629" />
         <Foreground Type="CT_RAW" Source="FFBDBDBD" />
       </Color>
       <Color Name="StatusBarDebugging">
-        <Background Type="CT_RAW" Source="FF871500" />
+        <Background Type="CT_RAW" Source="FF1C1D1E" />
         <Foreground Type="CT_RAW" Source="FFBDBDBD" />
       </Color>
       <Color Name="StatusBarNoSolution">
-        <Background Type="CT_RAW" Source="FF45105E" />
+        <Background Type="CT_RAW" Source="FF353941" />
         <Foreground Type="CT_RAW" Source="FFBDBDBD" />
       </Color>
       <Color Name="MainWindowActiveBuildingBorder">
@@ -5155,13 +5155,13 @@
         <Background Type="CT_RAW" Source="FF3E4249" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverGlyph">
-        <Background Type="CT_RAW" Source="FFE1D3E4" />
+        <Background Type="CT_RAW" Source="FFCECECE" />
       </Color>
       <Color Name="FileTabProvisionalHover">
-        <Background Type="CT_RAW" Source="FF000C3C" />
+        <Background Type="CT_RAW" Source="FF353941" />
       </Color>
       <Color Name="FileTabProvisionalHoverBorder">
-        <Background Type="CT_RAW" Source="FF000C3C" />
+        <Background Type="CT_RAW" Source="FF353941" />
       </Color>
       <Color Name="FileTabProvisionalHoverForeground">
         <Background Type="CT_RAW" Source="FFEFEFEF" />
