@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="One Dark Pro" GUID="{ea28ec8d-f76c-422c-b0f0-3ec5e564966a}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="One Dark Pro" GUID="{7df78c48-d996-457f-96a3-12c5bb205d60}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF282C34" />
@@ -213,8 +213,8 @@
         <Foreground Type="CT_RAW" Source="FF7CA5A0" />
       </Color>
       <Color Name="CurrentLineActiveFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF2E323A" />
+        <Background Type="CT_RAW" Source="FF364154" />
+        <Foreground Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="deltadiff.remove.line">
         <Background Type="CT_RAW" Source="FF2D0000" />
