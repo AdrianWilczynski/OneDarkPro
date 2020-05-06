@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
-    <Metadata>
-        <Identity Id="OneDarkPro.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.5" Language="en-US" Publisher="Adrian Wilczyński" />
-        <DisplayName>One Dark Pro</DisplayName>
-        <Description xml:space="preserve">"One Dark Pro" theme generated using Alexander Teinum's "Dainty for Visual Studio", saved with "Visual Studio Color Theme Designer" and tweaked to closer match Binaryify's "One Dark Pro" theme for Visual Studio Code.</Description>
-        <Icon>icon.png</Icon>
-        <Tags>Atom, One Dark Pro, Theme</Tags>
-    </Metadata>
-    <Installation>
-        <InstallationTarget Version="[16.0,17.0)" Id="Microsoft.VisualStudio.Community" />
-        <InstallationTarget Version="[16.0,17.0)" Id="Microsoft.VisualStudio.Enterprise" />
-        <InstallationTarget Version="[16.0,17.0)" Id="Microsoft.VisualStudio.Pro" />
-    </Installation>
-    <Dependencies>
-        <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
-    </Dependencies>
-    <Prerequisites>
-        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[16.0,17.0)" DisplayName="Visual Studio core editor" />
-    </Prerequisites>
-    <Assets>
-        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="Project" d:ProjectName="%CurrentProject%" Path="|%CurrentProject%;PkgdefProjectOutputGroup|" />
-    </Assets>
+  <Metadata>
+    <Identity Id="OneDarkPro.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.6" Language="en-US" Publisher="Adrian Wilczyński" />
+    <DisplayName>One Dark Pro</DisplayName>
+    <Description xml:space="preserve">"One Dark Pro" theme generated using Alexander Teinum's "Dainty for Visual Studio", saved with "Visual Studio Color Theme Designer" and tweaked to closer match Binaryify's "One Dark Pro" theme for Visual Studio Code.</Description>
+    <Icon>icon.png</Icon>
+    <Tags>Atom, One Dark Pro, Theme</Tags>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Version="[16.0,17.0)" Id="Microsoft.VisualStudio.Community" />
+    <InstallationTarget Version="[16.0,17.0)" Id="Microsoft.VisualStudio.Enterprise" />
+    <InstallationTarget Version="[16.0,17.0)" Id="Microsoft.VisualStudio.Pro" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
+  </Dependencies>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[16.0,17.0)" DisplayName="Visual Studio core editor" />
+  </Prerequisites>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="Project" d:ProjectName="%CurrentProject%" Path="|%CurrentProject%;PkgdefProjectOutputGroup|" />
+  </Assets>
 </PackageManifest>
