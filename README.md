@@ -7,3 +7,7 @@
 ![Razor Code](img/Razor.png)
 
 ![XML Code](img/XML.png)
+
+## Contributors
+
+- Thanks to Eric-Arz for C++ syntax highlighting.
