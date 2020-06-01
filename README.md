@@ -11,3 +11,4 @@
 ## Contributors
 
 - Thanks to Eric-Arz for C++ syntax highlighting.
+- Thanks to Fotis G. Pappas for ReSharper support.
