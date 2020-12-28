@@ -1172,7 +1172,7 @@
         <Background Type="CT_RAW" Source="FF000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
-      <Color Name="ReSharper Error Unresolved"> 
+      <Color Name="ReSharper Error Unresolved">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFFF3333" />
       </Color>
@@ -2103,6 +2103,18 @@
       <Color Name="ReSharper Debugger DataTip">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFDCDCDC" />
+      </Color>
+      <Color Name="axml - attribute name">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="axml - attribute value">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="axml - entity reference">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
     <Category Name="Cider" GUID="{92d153ee-57d7-431f-a739-0931ca3f7f70}">
@@ -10567,6 +10579,11 @@
       </Color>
       <Color Name="LookupMatchedTextForeground">
         <Foreground Type="CT_RAW" Source="FF0000FF" />
+      </Color>
+    </Category>
+    <Category Name="ThemedUtilityDialog" GUID="{e2961a72-48a5-4da7-8168-1fee490f78a7}">
+      <Color Name="WindowPanel">
+        <Background Type="CT_RAW" Source="FF282C34" />
       </Color>
     </Category>
   </Theme>
