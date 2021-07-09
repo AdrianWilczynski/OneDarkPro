@@ -6426,14 +6426,17 @@
       <Color Name="Halo">
         <Background Type="CT_RAW" Source="FFF6F6F6" />
       </Color>
+      <Color Name="FileTabParentText">
+        <Background Type="CT_RAW" Source="FFBDBDBD" />
+      </Color>
       <Color Name="FileTabGroupTitleBackground">
         <Background Type="CT_RAW" Source="FF2E323A" />
       </Color>
       <Color Name="FileTabActiveGroupTitleBackground">
-        <Background Type="CT_RAW" Source="FF2E323A" />
+        <Background Type="CT_RAW" Source="FF3E4249" />
       </Color>
       <Color Name="FileTabActiveGroupBackground">
-        <Background Type="CT_RAW" Source="FF2E323A" />
+        <Background Type="CT_RAW" Source="FF313741" />
       </Color>
     </Category>
     <Category Name="Find" GUID="{4370282e-987e-4ac4-ad14-5ffed2ad1e14}">
