@@ -12,3 +12,4 @@
 
 - Thanks to Eric-Arz for C++ syntax highlighting.
 - Thanks to Fotis G. Pappas for ReSharper support.
+- Thanks to Brandon Foss for fixing vertical tabs.
