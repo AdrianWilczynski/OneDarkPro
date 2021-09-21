@@ -13,3 +13,4 @@
 - Thanks to Eric-Arz for C++ syntax highlighting.
 - Thanks to Fotis G. Pappas for ReSharper support.
 - Thanks to Brandon Foss for fixing vertical tabs.
+- Thanks to Mr CSharp and Jacek Ratajewski for their PRs porting this theme to Visual Studio 2022.
