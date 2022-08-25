@@ -3350,6 +3350,9 @@
       </Color>
     </Category>
     <Category Name="CommonDocument" GUID="{72eb4027-f4ae-4b6c-9cc2-dfd5b49d9415}">
+      <Color Name="Container">
+        <Background Type="CT_RAW" Source="FF2E323A" />
+      </Color>
       <Color Name="Page">
         <Background Type="CT_RAW" Source="FF282C34" />
         <Foreground Type="CT_RAW" Source="FFBDBDBD" />
