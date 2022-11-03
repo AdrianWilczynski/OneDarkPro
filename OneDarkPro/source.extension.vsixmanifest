@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="OneDarkPro.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="3.0" Language="en-US" Publisher="Adrian Wilczyński" />
+        <Identity Id="OneDarkPro.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="3.1" Language="en-US" Publisher="Adrian Wilczyński" />
         <DisplayName>One Dark Pro</DisplayName>
         <Description xml:space="preserve">"One Dark Pro" theme generated using Alexander Teinum's "Dainty for Visual Studio", saved with "Visual Studio Color Theme Designer" and tweaked to closer match Binaryify's "One Dark Pro" theme for Visual Studio Code.</Description>
         <Icon>icon.png</Icon>
