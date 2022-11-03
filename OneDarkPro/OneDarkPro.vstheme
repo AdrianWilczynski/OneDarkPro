@@ -1,6 +1,6 @@
 <Themes>
-  <Theme Name="One Dark Pro" GUID="{0024020f-bba3-4365-9ea1-63b23313d509}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
-    <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
+	<Theme Name="One Dark Pro" GUID="{0024020f-bba3-4365-9ea1-63b23313d509}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+		<Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF282C34" />
         <Foreground Type="CT_RAW" Source="FFBDBDBD" />
@@ -9201,6 +9201,9 @@
       <Color Name="TemplateNewTagSelected">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
         <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+      </Color>
+      <Color Name="ActionButtonBackgroundActive">
+        <Background Type="CT_RAW" Source="FF2E323A" />
       </Color>
     </Category>
     <Category Name="TreeView" GUID="{92ecf08e-8b13-4cf4-99e9-ae2692382185}">
